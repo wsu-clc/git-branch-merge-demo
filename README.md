@@ -8,3 +8,6 @@ In this video, you will isolate development environments by creating branches, n
 * Use `git switch -c branch-name` to create and switch to a branch with a single command.
 * Use `git branch -d` to perform a safe delete (if changes have been merged or if branch has no commits).
 * Use `git branch -D` to perform a force delete (if branch has unmerged commits).
+## Simple Merging
+## Merging and Conflict Resolution
+## Pull Requests and Cleanup
